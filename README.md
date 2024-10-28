@@ -3,11 +3,10 @@
 
 - 🌱 Actualmente estoy aprendiendo **Metodologias agiles, base de datos, despliegue en la nube y redes**
 
-- 💬 Pregúntame sobre **Java, C#, pyhton, C++**
+- 💬 Pregúntame sobre **Java, pyhton, Go y C++**
 
 - 📫 Como contactarme **reyesjhonatan86@gmail.com**
 
-- ⚡ Dato curioso **Me gusta el ajedrez**
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
